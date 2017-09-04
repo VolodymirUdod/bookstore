@@ -1,0 +1,18 @@
+X-Sender: bookstore@exampl.com
+X-Receiver: orders@exampl.com
+MIME-Version: 1.0
+From: bookstore@exampl.com
+To: orders@exampl.com
+Date: 14 Mar 2017 17:23:38 +0200
+Subject: =?utf-8?B?0J3QvtCy0YvQuSDQt9Cw0LrQsNC3INC+0YLQv9GA0LDQstC7?=
+ =?utf-8?B?0LXQvSE=?=
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+0J3QvtCy0YvQuSDQt9Cw0LrQsNC3INC+0LHRgNCw0LHQvtGC0LDQvQ0KLS0tDQrQotC+
+0LLQsNGA0Ys6DQoxIHgg0K/Qt9GL0Log0L/RgNC+0LPRgNCw0LzQvNC40YDQvtCy0LDQ
+vdC40Y8gQyMgNS4wINC4INC/0LvQsNGC0YTQvtGA0LzQsC4gTkVUIDQuNSAo0LjRgtC+
+0LPQvjogMcKgNzc2LDAw0YAuKdCe0LHRidCw0Y8g0YHRgtC+0LjQvNC+0YHRgtGMOiAx
+wqA3NzYsMDDRgC4tLS0NCtCU0L7RgdGC0LDQstC60LA6DQpWbGFkaW1pciBZZG9kDQpE
+cmFnb21hbm92YSAxNGENCg0KDQpLaWV2DQpVa3JhaW5hDQotLS0NCtCf0L7QtNCw0YDQ
+vtGH0L3QsNGPINGD0L/QsNC60L7QstC60LA6INCd0LXRgg==
